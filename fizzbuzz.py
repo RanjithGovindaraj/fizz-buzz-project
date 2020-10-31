@@ -14,4 +14,4 @@ for i in range(1,301):
 print("GIT WORKSHOP")
 print("Test for Nano editor")
 print("I made a change in branch-to-merge")
-print("I am in master branch")
+print("I am in master branch fizzbuzz.py")
