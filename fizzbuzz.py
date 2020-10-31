@@ -3,7 +3,7 @@
 # multiples of 3 and 5 => FIZZBUZZ
 
 # Second Approach
-for i in range(1,11):
+for i in range(1,301):
     t = ""
     if i % 3 == 0:
         t+="FIZZ"
