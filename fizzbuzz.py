@@ -12,3 +12,4 @@ for i in range(1,301):
     if t == "":
         print(str(i))
 print("GIT WORKSHOP")
+print("Test for Nano editor")
