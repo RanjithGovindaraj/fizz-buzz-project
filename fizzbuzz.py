@@ -12,3 +12,4 @@ for i in range(1,101):
         print("BUZZ")
     else:
         print(str(i))
+print("END")
